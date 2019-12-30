@@ -3,5 +3,6 @@ Packages:
 2- script
 
 theme:
-1-ui: atom material
-2-seyntax: neon drakula
+1-ui: atom material, glacier darkula
+2-seyntax: neon drakula,darkula web ,darkula, darkular,
+3-
